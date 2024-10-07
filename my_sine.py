@@ -4,4 +4,4 @@ a = np.sin(np.pi/2)
 
 b = 5
 
-print(a)
+print(5 * a)
